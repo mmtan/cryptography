@@ -1,5 +1,5 @@
 # The Principles of Modern Cryptography
-Course [website](https://mmtan.github.io/mathcrypto/) for The Principles of Modern Cryptography
+Course [website](https://mmtan.github.io/cryptography/) for The Principles of Modern Cryptography
 
 **These documents are not to be sold, published, or distributed without the author's consent.**
 
@@ -19,7 +19,7 @@ Suggested Textbook and Reference Books:
 
 Syllabus: [spring 2023](/syllabus_spring_2023.md)
 
-course website: https://mmtan.github.io/mathcrypto/
+course website: https://mmtan.github.io/cryptography/
 
 ---
 
