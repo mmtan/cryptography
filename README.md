@@ -17,19 +17,18 @@ Course Description:
 Suggested Textbook and Reference Books:
 - **Textbook** Introduction to Modern Cryptography by Jonathan Katz and Yehuda Lindell
 
-Syllabus: [spring 2023](/syllabus_spring_2023.md)
+Syllabus: [Spring2025](https://www.dropbox.com/scl/fi/ppx5s2mw6tcdbiuqedd0d/CSCI-7520-Cryptography.paper?rlkey=qp5p8ntmkeeatqokzr66esm08&st=1ea8n0j6&dl=0)
 
 course website: https://mmtan.github.io/cryptography/
 
 ---
 
 ## Schedule and references
-Monday (01/09/23): Introduction to classical ciphers
- * References : Textbook Section 1.1, 1.2, 1.3, 1.7.1, 2.5
- * Notes: [Lecture 1](/lec1.pdf)
- * Problem sets: NA
- * Content: shift cipher, the concept of divides and remainder, modular arithmetic, set of remainder modulo n
- 
+Tuesday (01/07/25): 
+ * References: Textbook Section 1.1-1.3
+ * Notes: TBA
+ * Problem sets: TBA
+ * Content: Revision of discrete probability theory, shift cipher
 
   
  
