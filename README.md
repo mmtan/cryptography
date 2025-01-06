@@ -24,11 +24,11 @@ course website: https://mmtan.github.io/cryptography/
 ---
 
 ## Schedule and references
-Tuesday (01/07/25): 
+Thursday (01/09/25): 
  * References: Textbook Section 1.1-1.3
  * Notes: TBA
  * Problem sets: TBA
- * Content: Revision of discrete probability theory, shift cipher
+ * Content: Historical ciphers, notion of perfect secrecy
 
   
  
