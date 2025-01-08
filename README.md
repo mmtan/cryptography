@@ -17,7 +17,7 @@ Course Description:
 Suggested Textbook and Reference Books:
 - **Textbook** Introduction to Modern Cryptography by Jonathan Katz and Yehuda Lindell
 
-Syllabus: [Spring2025](https://www.dropbox.com/scl/fi/ppx5s2mw6tcdbiuqedd0d/CSCI-7520-Cryptography.paper?rlkey=qp5p8ntmkeeatqokzr66esm08&st=1ea8n0j6&dl=0)
+Syllabus: [Spring2025](https://www.dropbox.com/scl/fi/ppx5s2mw6tcdbiuqedd0d/CSCI-7520-Cryptography.paper?rlkey=qp5p8ntmkeeatqokzr66esm08&st=nsbncjlz&dl=0)
 
 course website: https://mmtan.github.io/cryptography/
 
