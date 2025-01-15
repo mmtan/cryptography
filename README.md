@@ -30,6 +30,11 @@ Thursday (01/09/25) and Tuesday (01/14/25)
  * Problem sets: [Homework1](https://www.dropbox.com/scl/fi/a51ahhot01tkspxm74zmb/homework1.pdf?rlkey=2g48n73l26rwtinobd2oaud1c&dl=0)
  * Content: Historical ciphers, perfectly secure, perfectly indistinguishable
 
+Thursday (01/16/25) and Tuesday (01/22/25)
+ * References: Textbook Section KL 1.4 and 2.1, KL 2.2-2.3, 3.1, and 3.2.1
+ * Notes: TBA
+ * Problem sets: TBA
+ * Content: One-time pad, adversarial indistinguishability, limitations of perfect secrecy, Shannon's Theorem
    
 
 
