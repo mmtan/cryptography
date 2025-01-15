@@ -24,11 +24,15 @@ course website: https://mmtan.github.io/cryptography/
 ---
 
 ## Schedule and references
-Thursday (01/09/25)
+Thursday (01/09/25) and Tuesday (01/14/25)
  * References: Textbook Section 1.1-1.3
- * Notes: [Notes1](https://www.dropbox.com/scl/fi/fbt26ehh7lxlwb3azu5e4/note1.pdf?rlkey=rcp2ujp2m0ehtgebadg4m5pg9&dl=0)
+ * Notes: [Notes1](https://www.dropbox.com/scl/fi/lmfc7w4k7ghncjfowhkh6/notes1.pdf?rlkey=w63dtaqzb1jz0rwaeu2zf731l&dl=0)
  * Problem sets: [Homework1](https://www.dropbox.com/scl/fi/a51ahhot01tkspxm74zmb/homework1.pdf?rlkey=2g48n73l26rwtinobd2oaud1c&dl=0)
- * Content: Historical ciphers
+ * Content: Historical ciphers, perfectly secure, perfectly indistinguishable
+
+   
+
+
 
 
   
