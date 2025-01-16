@@ -32,8 +32,8 @@ Thursday (01/09/25) and Tuesday (01/14/25)
 
 Thursday (01/16/25) and Tuesday (01/22/25)
  * References: Textbook Section KL 1.4 and 2.1, KL 2.2-2.3, 3.1, and 3.2.1
- * Notes: TBA
- * Problem sets: TBA
+ * Notes: [Notes2](https://www.dropbox.com/scl/fi/6hy15020zylngkmbtvgbg/notes2.pdf?rlkey=21i40r0b5pedmbqbcsyso88ml&dl=0)
+ * Problem sets: [Homework2](https://www.dropbox.com/scl/fi/h4ec8jtjpohhzkvazq1t9/homework2.pdf?rlkey=ry8qjusrr835eu567oijsuxr6&dl=0)
  * Content: One-time pad, adversarial indistinguishability, limitations of perfect secrecy, Shannon's Theorem
    
 
