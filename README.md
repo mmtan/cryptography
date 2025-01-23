@@ -39,8 +39,8 @@ Thursday (01/16/25) and Tuesday (01/21/25)
 
 Thursday (01/23/25) and Tuesday (01/27/25)
  * References: Textbook Section KL 3.3
- * Notes: [Notes2](https://www.dropbox.com/scl/fi/6hy15020zylngkmbtvgbg/notes2.pdf?rlkey=21i40r0b5pedmbqbcsyso88ml&dl=0)
- * Problem sets: [Homework2](https://www.dropbox.com/scl/fi/h4ec8jtjpohhzkvazq1t9/homework2.pdf?rlkey=ry8qjusrr835eu567oijsuxr6&dl=0)
+ * Notes: [Notes3](https://www.dropbox.com/scl/fi/as97ztxeta9fkm6es3ji7/notes3.pdf?rlkey=9xf6f1if3ekkzmjmx61f0b0d3&dl=0)
+ * Problem sets: [Homework3](https://www.dropbox.com/scl/fi/yae4skn0zj8h2hwl2qhf0/homework3.pdf?rlkey=zy9bm2gj4ya7leiw7rn9eh5h0&dl=0)
  * Content:  Pseudorandomness. The pseudo-OTP. Proofs by reduction. 
    
 
