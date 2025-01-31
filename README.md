@@ -42,7 +42,17 @@ Thursday (01/23/25) and Tuesday (01/27/25)
  * Notes: [Notes3](https://www.dropbox.com/scl/fi/as97ztxeta9fkm6es3ji7/notes3.pdf?rlkey=9xf6f1if3ekkzmjmx61f0b0d3&dl=0)
  * Problem sets: [Homework3](https://www.dropbox.com/scl/fi/yae4skn0zj8h2hwl2qhf0/homework3.pdf?rlkey=zy9bm2gj4ya7leiw7rn9eh5h0&dl=0)
  * Discussion: [Homework3 discussion](https://www.dropbox.com/scl/fi/gbdvhss8euhzteip895z1/homework3_discussion.pdf?rlkey=jl0a5u32xzbz3dzj36znykn4g&dl=0)
- * Content:  Pseudorandomness. The pseudo-OTP. Proofs by reduction. 
+ * Content:  Pseudorandomness. The pseudo-OTP. Proofs by reduction.
+
+Thursday (01/30/25) and Tuesday (02/04/25)
+ * References: Textbook Section KL 3.4 and 3.5
+ * Notes: [Notes4](https://www.dropbox.com/scl/fi/c8ok4lanueglrkwtrh71t/notes4.pdf?rlkey=fnqud9soqwx92x7v7a6kn9ch1&dl=0)
+ * Problem sets: [Homework4](https://www.dropbox.com/scl/fi/5b3fay82tt1am5pzgyutd/homework4.pdf?rlkey=8xg2hado9uyahza0tyy01at7a&dl=0)
+ * Discussion: TBA
+ * Self-study Assignment: [Assignment1](https://www.dropbox.com/scl/fi/furjhrpd9h4s9nzu79rl1/homework_selfstudy1.pdf?rlkey=x1biz4ou0fbqjtxlwrezbxmw6&dl=0)
+ * Content:  Single vs Multi Messages security. Evedropper security vs CPA security. Pseudorandom functions vs random functions.
+
+
    
 
 
