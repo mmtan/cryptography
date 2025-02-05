@@ -48,7 +48,7 @@ Thursday (01/30/25) and Tuesday (02/04/25)
  * References: Textbook Section KL 3.4 and 3.5
  * Notes: [Notes4](https://www.dropbox.com/scl/fi/c8ok4lanueglrkwtrh71t/notes4.pdf?rlkey=fnqud9soqwx92x7v7a6kn9ch1&dl=0)
  * Problem sets: [Homework4](https://www.dropbox.com/scl/fi/5b3fay82tt1am5pzgyutd/homework4.pdf?rlkey=8xg2hado9uyahza0tyy01at7a&dl=0)
- * Discussion: TBA
+ * Discussion: [Homework4 discussion](https://www.dropbox.com/scl/fi/0lxwx96mbdm1zpp7i9fkb/homework4_discussion.pdf?rlkey=4qw7jhmun8jaye4d4urxvtvbh&dl=0)
  * Self-study Assignment: [Assignment1](https://www.dropbox.com/scl/fi/furjhrpd9h4s9nzu79rl1/homework_selfstudy1.pdf?rlkey=x1biz4ou0fbqjtxlwrezbxmw6&dl=0)
  * Content:  Single vs Multi Messages security. Evedropper security vs CPA security. Pseudorandom functions vs random functions.
 
