@@ -52,7 +52,7 @@ Thursday (01/30/25) and Tuesday (02/04/25)
  * Self-study Assignment (due 18 Feb 2025): [Assignment1](https://www.dropbox.com/scl/fi/furjhrpd9h4s9nzu79rl1/homework_selfstudy1.pdf?rlkey=x1biz4ou0fbqjtxlwrezbxmw6&dl=0)
  * Content:  Single vs Multi Messages security. Evedropper security vs CPA security. Pseudorandom functions vs random functions.
 
-Thursday (02/06/25) and Tuesday (02/08/25)</s>
+Thursday (02/06/25) and <s> Tuesday (02/08/25)</s>
  * References: Textbook Section KL 3.6 and KL 3.7, KL 4.1, 4.2, 4.3 and 4.4.1
  * Notes: [Notes5]()
  * Problem sets: [Homework5]()
