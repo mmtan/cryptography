@@ -54,9 +54,8 @@ Thursday (01/30/25) and Tuesday (02/04/25)
 
 Thursday (02/06/25) and <s> Tuesday (02/08/25)</s>
  * References: Textbook Section KL 3.6 and KL 3.7, KL 4.1, 4.2, 4.3 and 4.4.1
- * Notes: [Notes5]()
- * Problem sets: [Homework5]()
- * Discussion: [Homework5 discussion]()
+ * Notes: [Notes5](https://www.dropbox.com/scl/fi/vpd87v13oh5hvo4l2lnqk/notes5.pdf?rlkey=3ydw55uy56f13txsopf4bvnhm&dl=0)
+ * Recordings: [Lecture](https://augedu-my.sharepoint.com/:v:/g/personal/mtan_augusta_edu/EcfLVUyIEzBJrg8PcwM2iXoB4rFh42h6JDE6KWpYWJDPig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IhNpUy)
  * Content:  Hybrid argument.  Encryption from stream ciphers and block ciphers. 
 
    
