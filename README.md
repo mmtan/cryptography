@@ -57,9 +57,13 @@ Thursday (02/06/25) and <s> Tuesday (02/08/25)</s>
  * Notes: [Notes5](https://www.dropbox.com/scl/fi/vpd87v13oh5hvo4l2lnqk/notes5.pdf?rlkey=3ydw55uy56f13txsopf4bvnhm&dl=0)
  * Recordings: [Lecture](https://augedu-my.sharepoint.com/:v:/g/personal/mtan_augusta_edu/EcfLVUyIEzBJrg8PcwM2iXoB4rFh42h6JDE6KWpYWJDPig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IhNpUy)
  * Content:  Hybrid argument.  Encryption from stream ciphers and block ciphers. 
-
    
-
+Thursday (02/13/25) and <s> Tuesday (02/20/25)</s>
+ * References: KL 7.1, 7.2, 7.3.1, 7.4, 7.5, and 7.7
+ * Notes: [Notes6]()
+ * Problem sets: [Homework5]()
+ * Discussion: [Homework5_discussion]()
+ * Content: One-Way Functions
 
 
 
