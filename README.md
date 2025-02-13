@@ -59,11 +59,11 @@ Thursday (02/06/25) and <s> Tuesday (02/08/25)</s>
  * Content:  Hybrid argument.  Encryption from stream ciphers and block ciphers. 
    
 Thursday (02/13/25) and Tuesday (02/20/25)
- * References: KL 7.1, 7.2, 7.3.1, 7.4, 7.5, and 7.7
- * Notes: [Notes6]()
- * Problem sets: [Homework5]()
+ * References: KL 5.1.1, 5.2, 5.3.1, 5.4.1, and 5.6.1-5.6.3
+ * Notes: [Notes6](https://www.dropbox.com/scl/fi/xz030i7bt7gt7aeli5efm/notes6.pdf?rlkey=mc6vxyvmrsoltju5hj5ia5b09&dl=0)
+ * Problem sets: [Homework5](https://www.dropbox.com/scl/fi/adiygu69t2uk1j2jijlrf/homework5.pdf?rlkey=rx9h00fsmsjzqu23v7jyweyib&dl=0)
  * Discussion: [Homework5_discussion]()
- * Content: One-Way Functions
+ * Content: Hash functions and collision resistance. Birthday attacks on hash functions. Additional applications of hash functions.
 
 
 
