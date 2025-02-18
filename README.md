@@ -62,7 +62,7 @@ Thursday (02/13/25) and Tuesday (02/20/25)
  * References: KL 5.1.1, 5.2, 5.3.1, 5.4.1, and 5.6.1-5.6.3
  * Notes: [Notes6](https://www.dropbox.com/scl/fi/xz030i7bt7gt7aeli5efm/notes6.pdf?rlkey=mc6vxyvmrsoltju5hj5ia5b09&dl=0)
  * Problem sets: [Homework5](https://www.dropbox.com/scl/fi/adiygu69t2uk1j2jijlrf/homework5.pdf?rlkey=rx9h00fsmsjzqu23v7jyweyib&dl=0)
- * Discussion: [Homework5_discussion]()
+ * Discussion: [Homework5_discussion](https://www.dropbox.com/scl/fi/zd30v0n8q2txqfvqdewiq/homework5_discussion.pdf?rlkey=20urh9d8yxj7937ay8yap73bd&dl=0)
  * Content: Hash functions and collision resistance. Birthday attacks on hash functions. Additional applications of hash functions.
 
 
