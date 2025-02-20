@@ -65,6 +65,12 @@ Thursday (02/13/25) and Tuesday (02/20/25)
  * Discussion: [Homework5_discussion](https://www.dropbox.com/scl/fi/zd30v0n8q2txqfvqdewiq/homework5_discussion.pdf?rlkey=20urh9d8yxj7937ay8yap73bd&dl=0)
  * Content: Hash functions and collision resistance. Birthday attacks on hash functions. Additional applications of hash functions.
 
+Thursday (02/20/25) and Tuesday (02/27/25)
+ * References: KL 8.1.1-8.1.2, 8.1.3, 8.3.1-8.3.3, 8.4.2, and 10
+ * Notes: [Notes6]()
+ * Problem sets: [Homework6]()
+ * Discussion: [Homework6_discussion]()
+ * Content:  Groups. Hardness assumptions in cyclic groups: the discrete-logarithm assumption and Diffie-Hellman problems. Hash Functions Construction. The Diffie-Hellman key-exchange protocol.
 
 
   
