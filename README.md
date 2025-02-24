@@ -67,8 +67,8 @@ Thursday (02/13/25) and Tuesday (02/20/25)
 
 Thursday (02/20/25) and Tuesday (02/27/25)
  * References: KL 8.1.1-8.1.2, 8.1.3, 8.3.1-8.3.3, 8.4.2, and 10
- * Notes: [Notes6]()
- * Problem sets: [Homework6]()
+ * Notes: [Notes7](https://www.dropbox.com/scl/fi/fmklyjszasw3mz1gdqcs6/notes7.pdf?rlkey=y747wrufst3w5j1ymqx61kojw&dl=0)
+ * Problem sets: [Homework6](https://www.dropbox.com/scl/fi/38rx0dhpd2rai146wt2ad/homework6.pdf?rlkey=t3zbnuyimnl619wm1ust9d6xa&dl=0)
  * Discussion: [Homework6_discussion]()
  * Content:  Groups. Hardness assumptions in cyclic groups: the discrete-logarithm assumption and Diffie-Hellman problems. Hash Functions Construction. The Diffie-Hellman key-exchange protocol.
 
