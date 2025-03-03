@@ -69,10 +69,15 @@ Thursday (02/20/25) and Tuesday (02/27/25)
  * References: KL 8.1.1-8.1.2, 8.1.3, 8.3.1-8.3.3, 8.4.2, and 10
  * Notes: [Notes7](https://www.dropbox.com/scl/fi/fmklyjszasw3mz1gdqcs6/notes7.pdf?rlkey=y747wrufst3w5j1ymqx61kojw&dl=0)
  * Problem sets: [Homework6](https://www.dropbox.com/scl/fi/38rx0dhpd2rai146wt2ad/homework6.pdf?rlkey=t3zbnuyimnl619wm1ust9d6xa&dl=0)
- * Discussion: [Homework6_discussion]()
+ * Discussion: [Homework6_discussion](https://www.dropbox.com/scl/fi/ecimi2cz5n6xnoqjkcayr/homework6_discussion.pdf?rlkey=39082vgvpay38133gzbm5sq9b&dl=0)
  * Content:  Groups. Hardness assumptions in cyclic groups: the discrete-logarithm assumption and Diffie-Hellman problems. Hash Functions Construction. The Diffie-Hellman key-exchange protocol.
 
-
+Thursday (02/27/25) and Tuesday (03/04/25)
+ * References: KL 11.1 11.2, 11.4.1, and 11.4.4
+ * Notes: [Notes8]()
+ * Problem sets: [Homework7]()
+ * Discussion: [Homework7_discussion]()
+ * Content:  Pohlig-Hellman algorithm. Chinese Remainder Theorem.  Public-key encryption: syntax and definitions of security. El Gamal encryption. Definitions of security for public-key encryption. 
   
  
  
