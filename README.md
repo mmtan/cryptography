@@ -75,9 +75,11 @@ Thursday (02/20/25) and Tuesday (02/27/25)
 Thursday (02/27/25) and Tuesday (03/04/25)
  * References: KL 11.1 11.2, 11.4.1, and 11.4.4
  * Notes: [Notes8]()
- * Problem sets: [Homework7]()
+ * Problem sets: [Homework7](https://www.dropbox.com/scl/fi/ju4450fjqdm7no1wexcgu/homework7.pdf?rlkey=1qnj2mx5urzsvuxzgfq4h091t&dl=0)
  * Discussion: [Homework7_discussion]()
- * Content:  Pohlig-Hellman algorithm. Chinese Remainder Theorem.  Public-key encryption: syntax and definitions of security. El Gamal encryption. Definitions of security for public-key encryption. 
+ * Content:  Pohlig-Hellman algorithm. Primality Testing.
+
+   
   
  
  
