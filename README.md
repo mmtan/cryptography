@@ -72,12 +72,19 @@ Thursday (02/20/25) and Tuesday (02/27/25)
  * Discussion: [Homework6_discussion](https://www.dropbox.com/scl/fi/ecimi2cz5n6xnoqjkcayr/homework6_discussion.pdf?rlkey=39082vgvpay38133gzbm5sq9b&dl=0)
  * Content:  Groups. Hardness assumptions in cyclic groups: the discrete-logarithm assumption and Diffie-Hellman problems. Hash Functions Construction. The Diffie-Hellman key-exchange protocol.
 
-Thursday (02/27/25) and Tuesday (03/04/25)
+Thursday (02/27/25) and Tuesday (03/04/25) and Tuesday (03/11/25)
  * References: KL 11.1 11.2, 11.4.1, and 11.4.4
  * Notes: [Notes8](https://www.dropbox.com/scl/fi/hj092yzbeu49s28wdcmnt/notes8.pdf?rlkey=f2gdqpsbt20omf2inqcq72qpk&dl=0)
  * Problem sets: [Homework7](https://www.dropbox.com/scl/fi/ju4450fjqdm7no1wexcgu/homework7.pdf?rlkey=1qnj2mx5urzsvuxzgfq4h091t&dl=0)
- * Discussion: [Homework7_discussion]()
+ * Discussion: [Homework7_discussion](https://www.dropbox.com/scl/fi/2ln2psahim9fd0wpuz2qz/homework7_discussion.pdf?rlkey=xdez2y41hak2eyo2xt2su6s4d&dl=0)
  * Content:  Pohlig-Hellman algorithm. Primality Testing.
+
+ Thursday (03/13/25) and Tuesday (03/18/25)
+ * References: KL 11.1 11.2, 11.4.1, and 11.4.4
+ * Notes: [Notes9]()
+ * Problem sets: [Homework8]()
+ * Discussion: [Homework8_discussion]()
+ * Content:  RSA and Quadratic Residues
 
    
   
