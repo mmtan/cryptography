@@ -81,8 +81,8 @@ Thursday (02/27/25) and Tuesday (03/04/25) and Tuesday (03/11/25)
 
  Thursday (03/13/25) and Tuesday (03/18/25)
  * References: KL 11.1 11.2, 11.4.1, and 11.4.4
- * Notes: [Notes9]()
- * Problem sets: [Homework8]()
+ * Notes: [Notes9](https://www.dropbox.com/scl/fi/u5jc4umucj8q8f7dw15la/notes9.pdf?rlkey=orc0x4uuwg16kicq0iuocer78&dl=0)
+ * Problem sets: [Homework8](https://www.dropbox.com/scl/fi/ymw7z8mr6d1i9vgbnxib5/homework8.pdf?rlkey=blunh8ucn0gt4r4amg4rtnyal&dl=0)
  * Discussion: [Homework8_discussion]()
  * Content:  RSA and Quadratic Residues
 
