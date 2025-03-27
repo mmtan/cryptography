@@ -93,7 +93,7 @@ Thursday (03/20/25) and Tuesday (03/25/25)
  * Discussion: [Homework9_discussion]()
  * Content:  Rabin
 
-   
-  
+Thursday (03/27/25) and Tuesday (04/03/25)
+* [Proposal and presentation](https://www.dropbox.com/scl/fi/jixvzjpchr07cpj88q5y9/Graduate-Course-Assignment.pdf?rlkey=35l3l0k4dmg9gtrnneo1brsal&dl=0)
  
  
