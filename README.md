@@ -95,5 +95,8 @@ Thursday (03/20/25) and Tuesday (03/25/25)
 
 Thursday (03/27/25) and Tuesday (04/03/25)
 * [Proposal and presentation](https://www.dropbox.com/scl/fi/jixvzjpchr07cpj88q5y9/Graduate-Course-Assignment.pdf?rlkey=35l3l0k4dmg9gtrnneo1brsal&dl=0)
+- Proposal Submission: April 3, 2025
+- Proposal Approval:  April 8, 2025
+- Presentations Scheduled: 15, 22, 29 April, 2025, in-class. 
  
  
