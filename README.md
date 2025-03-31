@@ -90,7 +90,7 @@ Thursday (03/20/25) and Tuesday (03/25/25)
  * References: KL 11.1 11.2, 11.4.1, and 11.4.4
  * Notes: [Notes10](https://www.dropbox.com/scl/fi/hmt3nlkt3a716lbeu0ah9/notes10.pdf?rlkey=bbwnca3m0tc3ydpubolu2pubu&dl=0)
  * Problem sets: [Homework9](https://www.dropbox.com/scl/fi/kr2xhrqkbgxntaylytmct/homework9.pdf?rlkey=wztwmhbmilyglhjm4i6a657g5&dl=0)
- * Discussion: [Homework9_discussion]()
+ * Discussion: [Homework9_discussion](https://www.dropbox.com/scl/fi/kxwfxyjshjx4pzajwvkzg/homework9_discussion.pdf?rlkey=fqwwnneq8hk6mpjyjx0x74ous&dl=0)
  * Content:  Rabin
 
 Thursday (03/27/25) and Tuesday (04/03/25)
